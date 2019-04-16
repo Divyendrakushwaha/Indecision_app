@@ -1,2 +1,4 @@
 # Indecision_app
-Simple react tido
+Simple react todo
+using modal
+
